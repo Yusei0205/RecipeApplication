@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864777835792",
+    "firebase_url": "https://propertyrental-e8595.firebaseio.com",
+    "project_id": "propertyrental-e8595",
+    "storage_bucket": "propertyrental-e8595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864777835792:android:aeb7fe18b2d9cfe0",
+        "android_client_info": {
+          "package_name": "com.example.cheeyung.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864777835792-35o8uv91p3ppqg4d5u8lnjebcffe60dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cheeyung.recipeapp",
+            "certificate_hash": "91678a93bfd4833fe418af643a09c0b2b628223b"
+          }
+        },
+        {
+          "client_id": "864777835792-o1jp568bvh92e1ul0qtkelike7hfpvgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsZKZbFZLMOdgBzRg16e02_5T_BBuk4wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864777835792-o1jp568bvh92e1ul0qtkelike7hfpvgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
